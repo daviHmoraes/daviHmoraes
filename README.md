@@ -1,7 +1,7 @@
 # 😎 Olá, eu sou Davi!  
 
 Bem-vindo ao meu **GitHub**!
-Eu trabalho/estudo na <img src="(https://encurtador.com.br/A0egV)" alt="Logo" width="25"/>
+Eu trabalho/estudo no Centro WEG!
 
 ---
 
