@@ -1,9 +1,10 @@
+
 # 😎 Olá, eu sou Davi!  
 
 Bem-vindo ao meu **GitHub**!
 
-Eu trabalho/estudo no Centro 
-![Logo da WEG](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Weg_logo_blue_vector.svg/2560px-Weg_logo_blue_vector.svg.png)
+Eu trabalho/estudo no Centro **WEG**
+
 
 ---
 
@@ -14,6 +15,7 @@ Eu trabalho/estudo no Centro
 </div>
 
 ---
+
 
 > ⚡ Tenho projetos estão em desenvolvimento. Fique de olho!
 
@@ -27,3 +29,4 @@ Eu trabalho/estudo no Centro
 
 ### 📈 Estatísticas GitHub
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviHmoraes&show_icons=true&theme=radical)
+
