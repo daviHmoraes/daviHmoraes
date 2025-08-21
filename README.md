@@ -1,6 +1,7 @@
 # 😎 Olá, eu sou Davi!  
 
-Bem-vindo ao meu **GitHub**! Aqui você encontra meus projetos de **Java, Python, Web e outros experimentos tech**.  
+Bem-vindo ao meu **GitHub**!
+Eu trabalho/estudo na <img src="(https://encurtador.com.br/A0egV)" alt="Logo" width="25"/>
 
 ---
 
