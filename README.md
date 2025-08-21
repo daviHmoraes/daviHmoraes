@@ -2,7 +2,8 @@
 
 Bem-vindo ao meu **GitHub**!
 
-Eu trabalho/estudo no Centro <img src="weg.png" />!
+Eu trabalho/estudo no Centro 
+![Logo da WEG](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Weg_logo_blue_vector.svg/2560px-Weg_logo_blue_vector.svg.png)
 
 ---
 
