@@ -28,4 +28,4 @@ Bem-vindo ao meu **GitHub**! Aqui você encontra meus projetos de **Java, Python
 ---
 
 ### 📈 Estatísticas GitHub
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=daviHmoraes&show_icons=true&theme=radical)
