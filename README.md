@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu **GitHub**!
 
-Eu trabalho/estudo no Centro <img src="https://encurtador.com.br/A0egV" />!
+Eu trabalho/estudo no Centro <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.navalshore.com.br%2Fexpositores%2Flista-de-expositores%3Fview%3Dcompanies%26companyId%3D150&psig=AOvVaw3wrz_LKGz_GQQmQzzKSik_&ust=1755892906279000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCYq_nYnI8DFQAAAAAdAAAAABAE" />!
 
 ---
 
