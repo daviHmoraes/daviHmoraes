@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, Bem-vindo(a) ao meu GitHub!</h1>
 
 <p align="center">
-  <img src="assets/spongebob-computer-on-fire.gif" width="380">
+  <img src="assets/spongebob-patrick-computer.gif" width="380">
 </p>
 
 
