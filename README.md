@@ -73,7 +73,7 @@ Quando não estou estudando ou programando, estou:
   <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://discord.com/users/SEU_ID_AQUI">
+<a href="https://discord.com/users/heinzendavi">
   <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
