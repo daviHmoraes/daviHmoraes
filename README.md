@@ -47,7 +47,6 @@ Construir base sólida em **Back-End com Java**, evoluindo para projetos com mai
 
 <p align="center">
   heinzen08moraes@gmail.com <br>
-  Discord: heinzendavi
 </p>
 
 ---
