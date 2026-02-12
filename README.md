@@ -1,87 +1,56 @@
-<h1 align="center">👋 Olá, Bem-vindo(a) ao meu GitHub!</h1>
+<!-- ONDA SUPERIOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header"/>
+
+<h1 align="center">Davi Heinzen</h1>
+<p align="center">
+  Java Backend Developer Student
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Estudante de Desenvolvimento de Sistemas na **WEG**, focado em desenvolvimento **Back-End com Java**.
+
+Interesse em regras de negócio, arquitetura em camadas, banco de dados e boas práticas de código.
+
+---
+
+## 🚀 Stack Principal
 
 <p align="center">
-  <img src="assets/spongebob-patrick-computer.gif" width="380">
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=700&pause=500&color=FFFFFF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Java;Estudante+de+Sistemas+na+WEG;Focado+em+Back-End;Crescendo+Todos+os+Dias" />
+  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 📌 Projeto em Destaque
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Postgre" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="MySQL" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="Git" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="Docker" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="center" alt="Notion" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-  <img align="center" alt="VSCode" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Eclipse" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" />
-  <img align="center" alt="IntelliJ" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" />
-  <img align="center" alt="Linux" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
-  <img align="center" alt="Windows" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="VirtualBox" height="45" width="45" src="https://commons.wikimedia.org/wiki/Special:FilePath/Virtualbox_logo.svg" />
-</div>
+### 🛢️ Sistema para Posto de Combustível
+Aplicação em Java com:
+- Estrutura em camadas (DAO, Service)
+- Tratamento de exceções personalizadas
+- Integração com MySQL via JDBC
+- Regras de negócio bem definidas
 
 ---
 
-## 📈 Estatísticas
+## 🎯 Objetivo
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daviHmoraes&show_icons=true&theme=radical" width="46%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviHmoraes&layout=compact&theme=radical" width="50%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daviHmoraes&theme=radical" width="60%" />
-</p>
-
----
-
-## 📌 Status Atual
-
-- 📚 Estudando: **Java Avançado, JDBC, Estruturas de Dados, Padrões de Projeto**  
-- 🔨 Construindo: **Sistema para posto de combustível (Java + MySQL)**  
-- 🎯 Objetivo: **Dominar Back-End e me tornar Desenvolvedor Java**  
-- 🧰 Ferramentas principais: **IntelliJ IDEA, VS Code, Docker e Linux**
-
----
-
-## 🙋🏾 Sobre mim
-
-Sou **Davi Heinzen**, estudante de Desenvolvimento de Sistemas na **WEG**.  
-Apaixonado por tecnologia, criação de sistemas e descobrir como tudo funciona nos bastidores.
-
-Quando não estou estudando ou programando, estou:
-
-- Jogando no PC 🎮  
-- Andando de moto 🏍️  
-- Criando e melhorando projetos no GitHub ⚙️  
+Construir base sólida em **Back-End com Java**, evoluindo para projetos com maior complexidade e arquitetura robusta.
 
 ---
 
 ## 📫 Contato
 
-<a href="mailto:heinzen08moraes@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://discord.com/users/heinzendavi">
-  <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-
----
-
 <p align="center">
-  <b>⭐ Se curtir meus projetos, não esquece de deixar uma estrela!</b>
+  heinzen08moraes@gmail.com <br>
+  Discord: heinzendavi
 </p>
 
 ---
 
+<!-- ONDA INFERIOR -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
