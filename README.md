@@ -11,7 +11,6 @@
 ## 👨‍💻 Sobre mim
 
 Estudante de Desenvolvimento de Sistemas na **WEG**, focado em desenvolvimento **Back-End com Java**.
-
 Interesse em regras de negócio, arquitetura em camadas, banco de dados e boas práticas de código.
 
 ---
