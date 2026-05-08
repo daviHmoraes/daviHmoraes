@@ -1,9 +1,14 @@
 <!-- ONDA SUPERIOR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=140&section=header"/>
 
 <h1 align="center">Davi Heinzen</h1>
+
 <p align="center">
-  Java Backend Developer Student
+  Back-End Developer in Progress
+</p>
+
+<p align="center">
+  Java • Logic • Clean Code • Problem Solving
 </p>
 
 ---
@@ -11,44 +16,65 @@
 ## 👨‍💻 Sobre mim
 
 Estudante de Desenvolvimento de Sistemas na **WEG**, focado em desenvolvimento **Back-End com Java**.
-Interesse em regras de negócio, arquitetura em camadas, banco de dados e boas práticas de código.
+
+Gosto de entender como as coisas funcionam por trás dos sistemas, principalmente lógica, regras de negócio e automações.  
+Tenho interesse em arquitetura de software, APIs e construção de aplicações organizadas e escaláveis.
 
 ---
 
-## 🚀 Stack Principal
+## 🚀 Tecnologias
 
 <p align="center">
   <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
   <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
+  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
   <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
 </p>
 
 ---
 
-## 📌 Projeto em Destaque
+## 🧠 Atualmente focado em
 
-### 🛢️ Sistema para Posto de Combustível
-Aplicação em Java com:
-- Estrutura em camadas (DAO, Service)
-- Tratamento de exceções personalizadas
-- Integração com MySQL via JDBC
-- Regras de negócio bem definidas
+- Estruturação de projetos Back-End
+- Lógica de programação
+- Clean Code
+- Banco de dados relacionais
+- JDBC e integração com MySQL
+- Conceitos para construção de APIs
 
 ---
 
-## 🎯 Objetivo
+## 🎯 Objetivos
 
-Construir base sólida em **Back-End com Java**, evoluindo para projetos com maior complexidade e arquitetura robusta.
+- Evoluir como desenvolvedor Back-End
+- Dominar Java e futuramente o ecossistema Spring
+- Aprender desenvolvimento de APIs
+- Construir sistemas mais robustos e organizados
+- Explorar novas tecnologias ao longo da jornada
+
+---
+
+## 🎵 Fora do código
+
+- Ouvir música
+- Jogar
+- Aprender coisas novas por curiosidade
+
+---
+
+<p align="center">
+  “Curioso sobre como as coisas funcionam e aprender como construí-las.”
+</p>
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  heinzen08moraes@gmail.com <br>
+  heinzen08moraes@gmail.com
 </p>
 
 ---
 
 <!-- ONDA INFERIOR -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:243B55,100:141E30&height=140&section=footer"/>
