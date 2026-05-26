@@ -15,7 +15,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Estudante de Desenvolvimento de Sistemas na **WEG**, focado em desenvolvimento **Back-End com Java**.
+Estudante de Desenvolvimento de Sistemas na [WEG](https://www.weg.net), focado em desenvolvimento **Back-End com Java**.
 
 Gosto de entender como as coisas funcionam por trás dos sistemas, principalmente lógica, regras de negócio e automações.  
 Tenho interesse em arquitetura de software, APIs e construção de aplicações organizadas e escaláveis.
