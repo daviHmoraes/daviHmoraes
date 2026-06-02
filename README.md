@@ -22,14 +22,19 @@ Tenho interesse em arquitetura de software, APIs e construção de aplicações 
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tech Stack
 
-<p align="center">
-  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>
-  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-  <img height="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-</p>
+### Core Languages
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,mysql,postgresql)
+
+### Infraestructure
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,windows,linux)
+
+### Development Environment
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,vscode,figma,notion)
 
 ---
 
