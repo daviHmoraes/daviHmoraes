@@ -24,15 +24,15 @@ Tenho interesse em arquitetura de software, APIs e construção de aplicações 
 
 ## 🚀 Tech Stack
 
-### Core Languages
+### Linguagens
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=java,mysql,postgresql)
 
-### Infraestructure
+### Infraestrutura
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=virtualbox,windows,linux)
 
-### Development Environment
+### Ambientes & Ferramentas
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,vscode,figma,notion)
 
@@ -44,39 +44,32 @@ Tenho interesse em arquitetura de software, APIs e construção de aplicações 
 - Lógica de programação
 - Clean Code
 - Banco de dados relacionais
-- JDBC e integração com MySQL
-- Conceitos para construção de APIs
 
 ---
 
-## 🎯 Objetivos
+## 🎯 Metas
 
 - Evoluir como desenvolvedor Back-End
-- Dominar Java e futuramente o ecossistema Spring
-- Aprender desenvolvimento de APIs
-- Construir sistemas mais robustos e organizados
-- Explorar novas tecnologias ao longo da jornada
-
----
-
-## 🎵 Fora do código
-
-- Ouvir música
-- Jogar
-- Aprender coisas novas por curiosidade
-
----
-
-<p align="center">
-  “Curioso sobre como as coisas funcionam e aprender como construí-las.”
-</p>
+- Aprender novas linguagens
+- Estudar e aplicar Frameworks
+- Aprender sobre aplicação de APIs
 
 ---
 
 ## 📫 Contato
 
 <p align="center">
-  heinzen08moraes@gmail.com
+  <a href="mailto:heinzen08moraes@gmail.com">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/davi-heinzen-de-moraes-8b795240b">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" />
+  </a>
+
+  <a href="https://www.instagram.com/heinzendavi">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" />
+  </a>
 </p>
 
 ---
