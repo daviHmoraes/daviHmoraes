@@ -34,7 +34,7 @@ Tenho interesse em arquitetura de software, APIs e construção de aplicações 
 
 ### Ambientes & Ferramentas
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,vscode,figma,notion)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,idea,vscode,notion,spring,api)
 
 ---
 
