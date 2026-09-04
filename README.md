@@ -38,9 +38,6 @@ Tenho interesse em arquitetura de software, APIs e construção de aplicações 
 
 ---
 
-[![Atividades](https://github-readme-activity-graph.vercel.app/graph?username=davihmoraes&bg_color=0d1b2a&color=778da9&title_color=e0e1dd&line=778da9&point=e0e1dd&area=true&area_color=1b263b&border_color=1b263b)](https://github.com/ashutosh00710/github-readme-activity-graph)
----
-
 ## 📫 Contato
 
 <p align="center">
